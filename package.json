@@ -1,0 +1,12 @@
+{
+  "name": "sawmon-website-request",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "This is a Sawmon plugin. It requests a website on every ping.",
+  "repository": "bartlangelaan/sawmon-website-request",
+  "dependencies": {
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1"
+  }
+}
